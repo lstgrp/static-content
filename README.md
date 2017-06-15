@@ -3,12 +3,12 @@
 
 
 ## Legal notice(Cardio Tag)
-
+link: https://raw.githubusercontent.com/lstgrp/static-content/master/cardio_tag/code.json
 ### privacy policy,
 ### terms of use
 
 ## Legal notice(FeMon)
-
+link: https://raw.githubusercontent.com/lstgrp/static-content/master/femon/code.json
 ### privacy policy,
 ### terms of use
 
