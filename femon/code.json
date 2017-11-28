@@ -1,15 +1,15 @@
 {
     "privacy" : {
         "link" : "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/ko/contents.html",
-        "version" : "1.0.3",
-        "update" : "2017-3-14",
+        "version" : "1.1",
+        "update" : "2017-11-28",
         "create" : "2017-3-14",
         "meta" : {}
     },
     "use" : {
         "link" : "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/ko/contents.html",
-        "version" : "1.0.1",
-        "update" : "2017-3-14",
+        "version" : "1.1",
+        "update" : "2017-11-28",
         "create" : "2017-3-14",
         "meta" : {}
     }
