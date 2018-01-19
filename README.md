@@ -8,7 +8,7 @@ link: https://raw.githubusercontent.com/lstgrp/static-content/master/cardio_tag/
 ### terms of use
 
 ## Legal notice(FeMon)
-link: https://raw.githubusercontent.com/lstgrp/static-content/master/femon/code.json
+link: https://raw.githubusercontent.com/lstgrp/static-content/master/femon/package.json
 ### privacy policy,
 ### terms of use
 
