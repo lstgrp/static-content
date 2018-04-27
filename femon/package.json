@@ -1,101 +1,122 @@
-{
-    "ko": {
-        "privacy": {
-            "link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/ko/contents.html",
-            "version": "1.2",
-            "update": "2018-01-30",
-            "create": "2017-3-14",
-            "meta": {}
-        },
-        "use": {
-            "link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/ko/contents.html",
-            "version": "1.1",
-            "update": "2017-11-28",
-            "create": "2017-3-14",
-            "meta": {}
-        }
-    },
-    "en": {
-        "privacy": {
-            "link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/en/contents.html",
-            "version": "0.0",
-            "update": "2018-1-19",
-            "create": "2018-1-19",
-            "meta": {}
-        },
-        "use": {
-            "link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/en/contents.html",
-            "version": "0.0",
-            "update": "2018-1-19",
-            "create": "2018-1-19",
-            "meta": {}
-        }
-    }
-    ,"es": {
-"privacy": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/es/contents.html" ,
-"version": "1.2" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {}
-} ,
-"use": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/es/contents.html" ,
-"version": "1.1" ,
-"update": "",
-"create": "2018-4-27" ,
-"meta": {
-}
-}
-} ,
-"ja": {
-"privacy": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/ja/contents.html" ,
-"version": "1.2" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {}
-} ,
-"use": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/ja/contents.html" ,
-"version": "1.1",
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {
-}
-}
-} ,
-"cn": {
-"privacy": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/cn/contents.html" ,
-"version": "1.2" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {}
-} ,
-"use": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/cn/contents.html",
-"version": "1.1" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {
-}
-}
-} ,
-"tw": {
-"privacy": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/tw/contents.html" ,
-"version": "1.2" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {}
-} ,
-"use": {
-"link": "https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/tw/contents.html" ,
-"version": "1.1" ,
-"update": "" ,
-"create": "2018-4-27" ,
-"meta": {}
-}
-}
+{  
+   "ko":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/ko/contents.html",
+         "version":"1.2",
+         "update":"2018-01-30",
+         "create":"2017-3-14",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/ko/contents.html",
+         "version":"1.1",
+         "update":"2017-11-28",
+         "create":"2017-3-14",
+         "meta":{  
+
+         }
+      }
+   },
+   "en":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/en/contents.html",
+         "version":"0.0",
+         "update":"2018-1-19",
+         "create":"2018-1-19",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/en/contents.html",
+         "version":"0.0",
+         "update":"2018-1-19",
+         "create":"2018-1-19",
+         "meta":{  
+
+         }
+      }
+   },
+   "es":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/es/contents.html",
+         "version":"1.2",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/es/contents.html",
+         "version":"1.1",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      }
+   },
+   "ja":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/ja/contents.html",
+         "version":"1.2",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/ja/contents.html",
+         "version":"1.1",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      }
+   },
+   "cn":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/cn/contents.html",
+         "version":"1.2",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/cn/contents.html",
+         "version":"1.1",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      }
+   },
+   "tw":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/tw/contents.html",
+         "version":"1.2",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/tw/contents.html",
+         "version":"1.1",
+         "update":"",
+         "create":"2018-4-27",
+         "meta":{  
+
+         }
+      }
+   }
 }
