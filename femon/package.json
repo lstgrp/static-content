@@ -118,6 +118,26 @@
 
          }
       }
+   },
+   "vi":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/vi/contents.html",
+         "version":"0.0",
+         "update":"2018-6-19",
+         "create":"2018-6-19",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/vi/contents.html",
+         "version":"0.0",
+         "update":"2018-6-19",
+         "create":"2018-6-19",
+         "meta":{  
+
+         }
+      }
    }
   
 }
