@@ -138,6 +138,26 @@
 
          }
       }
+   },
+   "zh":{  
+      "privacy":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/privacy_policy/zh/contents.html",
+         "version":"0.0",
+         "update":"2018-12-3",
+         "create":"2018-12-3",
+         "meta":{  
+
+         }
+      },
+      "use":{  
+         "link":"https://raw.githubusercontent.com/lstgrp/static-content/master/femon/legal_notice/terms_of_use/zh/contents.html",
+         "version":"0.0",
+         "update":"2018-12-3",
+         "create":"2018-12-3",
+         "meta":{  
+
+         }
+      }
    }
   
 }
